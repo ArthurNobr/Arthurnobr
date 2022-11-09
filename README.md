@@ -13,9 +13,9 @@
 
 :outbox_tray: 2022 Goals: create a new project and find a new job.
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m *looking to collaborate* on **python 🐍 projects**.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
+-  I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+-  I’m *looking to collaborate* on **python 🐍 projects**.
+- **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
 
 - Thanks for visiting.
 
