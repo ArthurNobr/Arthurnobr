@@ -11,8 +11,6 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2022 Goals: create a new project and find a new job.
-
 -  I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
 -  I’m *looking to collaborate* on **python 🐍 projects**.
 - **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
