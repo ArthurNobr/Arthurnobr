@@ -11,14 +11,6 @@
 
 :books: I’m currently learning everything.
 
--  I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
--  I’m *looking to collaborate* on **java projects**.
-- **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
-
-- Thanks for visiting.
-
-- Enjoy it!! o/
-
 
 ## Language and Tools:
 <div>
