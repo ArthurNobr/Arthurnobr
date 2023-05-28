@@ -11,6 +11,7 @@
 
 :books: I’m currently learning everything.
 
+:mortar_board: Graduating in System for Internet at University of Sciences of Alagoas.
 
 ## Language and Tools:
 <div>
