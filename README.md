@@ -9,7 +9,7 @@
  
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently learning Java and SpringBoot.
 
 :mortar_board: Graduating in System for Internet at University of Sciences of Alagoas.
 
