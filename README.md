@@ -11,7 +11,7 @@
 
 :books: I’m currently learning Java and Spring Boot.
 
-:mortar_board: Graduating in System for Internet at University of Sciences of Alagoas.
+:mortar_board: Graduating in System for Internet at University of Health of Sciences of Alagoas.
 
 ## Language and Tools:
 <div>
