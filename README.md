@@ -3,10 +3,7 @@
  
 
 ## Hello, my name is Arthur!
-<p>I am a budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, 
- who has the <b>obsessive</b> idea of <b>improving</b> himself.</p>
- 
- 
+
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning Java and Spring Boot.
