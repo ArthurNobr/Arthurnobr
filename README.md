@@ -6,7 +6,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning Java and Spring Boot...
+:books: I’m currently learning Node.js and Express.
 
 :mortar_board: Graduating in System for Internet at University of Health of Sciences of Alagoas.
 
