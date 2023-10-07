@@ -5,7 +5,7 @@
 ## Hello, my name is Arthur!
 
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Graduating at University of Health of Sciences of Alagoas, in System for Internet.😊</br>
+<p><em>I graduating from the University of Health Sciences of Alagoas with a degree in Internet Systems.😊</br>
 </em></p>
 
 
