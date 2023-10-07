@@ -1,14 +1,32 @@
 
 
- 
+
 
 ## Hello, my name is Arthur!
 
-:house_with_garden: I’m from Brazil.
+ <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Graduating at University of Health of Sciences of Alagoas, in System for Internet.😊</br>
+</em></p>
 
-:books: I’m currently learning Node.js and Express.
 
-:mortar_board: Graduating in System for Internet at University of Health of Sciences of Alagoas.
+```javascript
+const aboutMe = {
+   code: [Javascript, Typescript, HTML, CSS, Java],
+   technologies: {
+      frontEnd: {
+         js: ["React", "Angular"],
+         css: ["Bootstrap", "Tailwind"]
+      },
+      backEnd: {
+         java: ["Spring"],
+         js: ["Node", "Express"],
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+      mobile: ["Android"]
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+};
+```
 
 ## Language and Tools:
 <div>
