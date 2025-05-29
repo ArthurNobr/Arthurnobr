@@ -15,11 +15,10 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
-         css: ["Bootstrap", "Tailwind"]
+         css: ["Tailwind"]
       },
       backEnd: {
          java: ["Spring"],
-         js: ["Node", "Express"],
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
       mobile: ["Android"]
